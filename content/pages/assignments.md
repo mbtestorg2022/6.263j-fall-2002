@@ -10,12 +10,81 @@ Bertsekas, Dimitri, and Robert Gallager. _Data Networks (2nd Edition)_. Upper Sa
 
 The relevant reading assignments for each problem set are also from the textbook.
 
-| Problem Set | Files |
-| --- | --- |
-| 1 | ([PDF]({{< baseurl >}}/resources/ps1_)) |
-| 2 | ([PDF]({{< baseurl >}}/resources/ps2)) |
-| 3 | ([PDF]({{< baseurl >}}/resources/ps3_)) |
-| 4 | ([PDF]({{< baseurl >}}/resources/ps4_)) |
-| 5 | ([PDF]({{< baseurl >}}/resources/ps5)) |
-| 6 | ([PDF]({{< baseurl >}}/resources/ps6)) |
-| 7 | ([PDF]({{< baseurl >}}/resources/hw7))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Problem Set
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps4_))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/hw7))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

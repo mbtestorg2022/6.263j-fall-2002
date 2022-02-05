@@ -4,31 +4,252 @@ title: Calendar
 uid: 5f2d9835-c779-9fb0-8f98-f6b0f5423231
 ---
 
-| Lec # | Topics |
-| --- | --- |
-| 1 | Introduction, OSI 7-Layer Architecture |
-| 2 | Data Link Layers, Framing, Error Detection |
-| 3 | Retransmission Algorithms |
-| 4 | Retransmission Algorithms |
-| 5 | Queueing Models - Introduction & Little's Theorem |
-| 6 | M/M/1, M/M/m, Queues etc. |
-| 7 | Networks of Queues |
-| 8 | M/G/1 Queues |
-| 9 | M/G/1 Queue Occupancy Distribution |
-| 10 | M/G/1 w/ Vacations, Reservations, Priority Queues |
-| 11 | Stability of Queueing Systems |
-| 12 | Quiz |
-| 13 | Multiple Access & Aloha |
-| 14 | Stabilized Aloha, Tree Algorithms |
-| 15 | CSMA, CSMA/CD and Ethernet |
-| 16 | High-Speed LANs, Token Rings, Satellite Reservations |
-| 17 | Introduction to Switch Architecture |
-| 18 | High Speed Switch Scheduling |
-| 19 | Broadcast Routing & Spanning Trees |
-| 20 | Shortest Path Routing |
-| 21 | Distributed Routing Algorithms, Optimal Routing |
-| 22 | Flow Control - Window/Credit Schemes |
-| 23 | Flow Control - Rate Based Schemes |
-| 24 | Transport Layer and TCP/IP |
-| 25 | ATM Networks |
-| 26 | Special Topic: Optical Networks, Wireless Networks
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, OSI 7-Layer Architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Data Link Layers, Framing, Error Detection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Retransmission Algorithms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Retransmission Algorithms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Queueing Models - Introduction & Little's Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+M/M/1, M/M/m, Queues etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Networks of Queues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+M/G/1 Queues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+M/G/1 Queue Occupancy Distribution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+M/G/1 w/ Vacations, Reservations, Priority Queues
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stability of Queueing Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Access & Aloha
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Stabilized Aloha, Tree Algorithms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+CSMA, CSMA/CD and Ethernet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+High-Speed LANs, Token Rings, Satellite Reservations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Switch Architecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+High Speed Switch Scheduling
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Broadcast Routing & Spanning Trees
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Shortest Path Routing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Distributed Routing Algorithms, Optimal Routing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Flow Control - Window/Credit Schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Flow Control - Rate Based Schemes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Transport Layer and TCP/IP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+ATM Networks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic: Optical Networks, Wireless Networks
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
